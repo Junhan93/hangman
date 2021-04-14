@@ -25,6 +25,7 @@ print("Enter 6      : Quick Pick")
 print("Enter 7 to 12: System Entry")
 
 option = int(input("Choose your game type: "))
+print()
 # option = 12
 
 # choosing gameplay 
